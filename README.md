@@ -1,6 +1,6 @@
 # AI Image Generator Chat
 
-Sebuah chatbot sederhana yang dapat menghasilkan gambar menggunakan Pollinations AI. Dibuat dengan HTML, CSS, dan JavaScript murni.
+Sebuah chatbot gabut sederhana yang dapat menghasilkan gambar menggunakan Pollinations AI. Dibuat dengan HTML, CSS, dan JavaScript murni.
 
 ## Fitur
 
@@ -39,6 +39,3 @@ Website ini dapat diakses di: [URL GitHub Pages Anda]
 - Background image dari Studio Ghibli
 - AI Image Generation oleh [Pollinations AI](https://pollinations.ai)
 
-## License
-
-MIT License 
