@@ -26,7 +26,7 @@ Sebuah chatbot gabut sederhana yang dapat menghasilkan gambar menggunakan Pollin
 
 ## Demo
 
-Website ini dapat diakses di: [URL GitHub Pages Anda]
+Website ini dapat diakses di: https://bhaskara20.github.io/Image-Generator-Website/
 
 ## Instalasi Lokal
 
